@@ -35,5 +35,5 @@ print(remove(s))
 
 
 ## Result
-To write a Python program that accepts a string and removes the character at a specified index.
+To write a Python program that accepts a string and removes the character at a specified index is successfully.
 
